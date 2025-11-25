@@ -145,9 +145,6 @@ select {
   cursor: pointer;
 }
 
-.beneficiaries:hover {
-}
-
 .beneficiaries:has(li:hover) li:not(:hover) {
   scale: 0.991;
   opacity: 0.8;
